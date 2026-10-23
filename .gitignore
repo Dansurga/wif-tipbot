@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+treasury.json
+tipbot.db
+.env
